@@ -10,7 +10,8 @@ Shows if user wins or loses at the end of the game and if no zero values are in 
 | Programming Lang | Version|
 | ---------------- | -------|
 | Scala| 2.11  |
-|Java | 8.0.25|
+|Java | 8|
+|MySQL| 8.0.25|
 
 ## How to Play
 1) Command asks user if they would like the rules explained to them. They answer with yes or no.
