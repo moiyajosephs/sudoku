@@ -1,0 +1,4 @@
+[debug] [vscode2-test] Classpath dependencies List()
+[debug] [vscode2-test] Dependencies from configurations List(vscode2)
+[debug] Bloop wrote the configuration of project 'vscode2-test' to 'C:\Users\josep\vscode2\.bloop\vscode2-test.json'
+[success] Generated .bloop\vscode2-test.json
